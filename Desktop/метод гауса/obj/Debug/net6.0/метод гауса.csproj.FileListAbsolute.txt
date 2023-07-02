@@ -1,0 +1,15 @@
+/Users/darinafesenko/Desktop/метод гауса/bin/Debug/net6.0/метод гауса
+/Users/darinafesenko/Desktop/метод гауса/bin/Debug/net6.0/метод гауса.deps.json
+/Users/darinafesenko/Desktop/метод гауса/bin/Debug/net6.0/метод гауса.runtimeconfig.json
+/Users/darinafesenko/Desktop/метод гауса/bin/Debug/net6.0/метод гауса.dll
+/Users/darinafesenko/Desktop/метод гауса/bin/Debug/net6.0/метод гауса.pdb
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.csproj.AssemblyReference.cache
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.GeneratedMSBuildEditorConfig.editorconfig
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.AssemblyInfoInputs.cache
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.AssemblyInfo.cs
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.csproj.CoreCompileInputs.cache
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.dll
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/refint/метод гауса.dll
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.pdb
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/метод гауса.genruntimeconfig.cache
+/Users/darinafesenko/Desktop/метод гауса/obj/Debug/net6.0/ref/метод гауса.dll
